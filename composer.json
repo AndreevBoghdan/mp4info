@@ -6,6 +6,6 @@
         "php": "^5.3.3 || ^7.0"
     },
     "autoload": {
-        "classmap": ["mp4info/MP4Info.php"]
+        "classmap": ["MP4Info.php"]
     }
 }
