@@ -1,1 +1,13 @@
-
+{
+    "name": "relbraun/mp4info",
+    "description": "Get mp4 file info.",
+	"license": "MIT",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "relbraun\\": "/"
+        }
+    }
+}
